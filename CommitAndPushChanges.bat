@@ -4,3 +4,4 @@ set /p "id=Commit Message: "
 git add .
 git commit -m "%id%"
 pause
+git push
